@@ -417,9 +417,9 @@ arraybuffer.slice@~0.0.7:
   resolved "https://registry.yarnpkg.com/arraybuffer.slice/-/arraybuffer.slice-0.0.7.tgz#3bbc4275dd584cc1b10809b89d4e8b63a69e7675"
   integrity sha512-wGUIVQXuehL5TCqQun8OW81jGzAWycqzFF8lFp+GOM5BXLYj3bKNsYC4daB7n6XjCqxQA/qgTJ+8ANR3acjrog==
 
-"arsenal@github:scality/Arsenal#8.1.32":
+"arsenal@github:scality/Arsenal#8ef0a90":
   version "8.1.32"
-  resolved "https://codeload.github.com/scality/Arsenal/tar.gz/5da4cd88ff1beeb08fb5bbbaa33062d5112faf03"
+  resolved "https://codeload.github.com/scality/Arsenal/tar.gz/8ef0a9011533d779d1b234c188d533fd22e4cee9"
   dependencies:
     "@hapi/joi" "^15.1.0"
     JSONStream "^1.0.0"
