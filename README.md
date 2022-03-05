@@ -1,4 +1,4 @@
-# Zenko CloudServer
+# Zenko CloudServer ❤️
 
 ![Zenko CloudServer logo](res/scality-cloudserver-logo.png)
 
